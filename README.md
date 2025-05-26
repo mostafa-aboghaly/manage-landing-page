@@ -24,7 +24,7 @@ I made a few adjustments to the design, like image optimization and correcting a
 ---
 
 
-## 📁 Tech Stack
+## Tech Stack
 
 - HTML
 - CSS
